@@ -9,7 +9,7 @@ document.getElementById('login-submit').addEventListener('click', function () {
     const userPassword = passwordField.value;
 
     // check email and password
-    if (userEmail == 'sontan@baap.com' && userPassword == 'secret') {
+    if (userEmail == 'sabbir@kotipoti.com' && userPassword == 'secret') {
         // button e click korle onno site e nea jabe..
 
         window.location.href = 'banking.html'
